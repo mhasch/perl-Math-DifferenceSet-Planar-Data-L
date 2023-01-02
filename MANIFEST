@@ -1,0 +1,10 @@
+CONTRIBUTING
+Changes
+LICENSE
+MANIFEST
+Makefile.PL
+README
+lib/Math/DifferenceSet/Planar/Data/L.pm
+share/pds_4875.db
+share/pds_4875.pod
+t/12_mdp_data_l.t
